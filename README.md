@@ -26,7 +26,6 @@ git clone https://github.com/amiraga/amirbot-supergroups
 
 cd amirbot-supergroups
 
-
 ./launch.sh install
 
 ./launch.sh
