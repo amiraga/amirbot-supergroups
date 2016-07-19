@@ -12,8 +12,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 سلام 
 آموزش ربات توسط 
 #amir
-
-زارم طبق فيلم آموزشي عمل کنيد
+کدهارو به ترتیب بزنید
 
 sudo apt-get update
 
