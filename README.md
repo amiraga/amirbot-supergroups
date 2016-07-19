@@ -12,13 +12,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ```bash
 سلام 
-آموزش ساخت سلف ربات توسط 
-#alireza_pt
-در کانال آموزشي ساخت ربات ضد اسپم تلگرام به آيدي
-@create_antispam_bot
+آموزش ربات توسط 
+#amir
 
-
-کد ها رو در زير ميزارم طبق فيلم آموزشي عمل کنيد
+زارم طبق فيلم آموزشي عمل کنيد
 
 sudo apt-get update
 
@@ -26,13 +23,16 @@ sudo apt-get upgrade
 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
+cd $HOME
 
-git clone https://github.com/alireza1998/self_bot
+git clone https://github.com/amiraga/amirbot-supergroups
 
-cd self_bot
+cd amirbot-supergroups
 
 
 ./launch.sh install
+
+./launch.sh
 
 موفق باشيد
 ```
@@ -40,10 +40,4 @@ cd self_bot
 Security Team
 -----------------
 
-[HAJ PRO](http://telegram.me/alireza_PT)<br>
-
-
-Security Team Channel
------------------
-
-[my Team](http://telegram.me/create_antispam_bot)
+[HAJ PRO](http://telegram.me/OXx_Amir_xXO)<br>
