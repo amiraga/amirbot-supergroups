@@ -1,7 +1,5 @@
-Self-Bot V2
+amir-bot V2
 ============
-
-A Telegram Bot based on [DBTeam bot](https://github.com/Josepdal/DBTeam).
 
 Installation
 ------------
